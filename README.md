@@ -69,7 +69,7 @@ Here are 10 high-demand AI automations I build for clients:
 Looking to automate your business or integrate AI into your workflow?
 
 - Fiverr: [fiverr.com/zorin99w](https://fiverr.com)
-- Telegram: [@zorin99W](https://t.me/zorin99W)
+- Website: [artemaiintegrator.ru](https://www.artemaiintegrator.ru/)
 
 ---
 
