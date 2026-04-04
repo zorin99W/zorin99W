@@ -2,9 +2,7 @@
 
 > I build AI agents, chatbots, and automation systems that eliminate manual work and scale businesses.
 
-[![Telegram](https://img.shields.io/badge/Telegram-@zorin99W-2CA5E0?style=flat&logo=telegram)](https://t.me/zorin99W)
-[![Profile Views](https://komarev.com/ghpvc/?username=zorin99W&color=blue&style=flat)]
-[![Website](https://img.shields.io/badge/Website-artemaiintegrator.ru-00B37E?style=flat&logo=google-chrome&logoColor=white)](https://www.artemaiintegrator.ru/)(https://github.com/zorin99W)
+[Website](https://www.artemaiintegrator.ru/) · [Telegram](https://t.me/zorin99W) · [Fiverr](https://fiverr.com/zorin99w) · [GitHub](https://github.com/zorin99W)
 
 ---
 
@@ -21,38 +19,60 @@
 
 ---
 
+## Common Use Cases
+
+- AI support bot for Telegram or website
+- n8n automation for lead capture and CRM updates
+- AI outreach system with personalized messages
+- Internal AI assistant for team workflows
+- Content automation for social media and blogs
+
+---
+
 ## Featured Projects
 
 ### AI Support Bot
 Telegram bot powered by OpenAI/OpenRouter that handles customer queries 24/7 with context memory and smart routing.
 - Stack: Python, aiogram, OpenAI API, Railway
-- Production-ready: handles real client traffic
+- Result: reduced manual support load and improved response speed.
 - [View project](https://github.com/zorin99W/techsupp-bot)
 
 ### Super AI Agent
 Advanced autonomous agent that breaks complex tasks into subtasks, uses tools, and reports results.
 - Stack: Python, LangChain, OpenAI, Claude
-- Multi-step reasoning with tool use (search, code, APIs)
+- Result: automates multi-step research and task execution without human involvement.
 - [View project](https://github.com/zorin99W/super-ai-agent)
 
 ### N8N Automation Suite
 Collection of production-ready n8n workflows for lead generation, content posting, and CRM updates.
 - Stack: n8n, Make, Google Sheets, Telegram
-- Saves 10-20 hours/week on manual operations
+- Result: significantly reduced time spent on manual business operations.
 - [View project](https://github.com/zorin99W/n8n-flows)
 
 ### AI Voice & Chat Assistant
 Multi-modal assistant combining voice input, GPT-4 reasoning, and Telegram delivery.
 - Stack: Python, OpenAI Whisper, GPT-4, aiogram
+- Result: enables hands-free interaction with AI for daily tasks.
 - [View project](https://github.com/zorin99W/improved-robot)
 
 ---
 
 ## Real Results
 
-- AI support bot reduced operator workload by ~60% for e-commerce client
-- n8n lead pipeline automated outreach for 500+ contacts/week
-- Telegram onboarding bot cut manual client setup from 2 hours to 5 minutes
+- AI support bot reduced manual operator workload for an e-commerce client
+- n8n lead pipeline automated outreach and follow-up at scale
+- Telegram onboarding bot significantly reduced manual client setup time
+
+---
+
+## How I Work
+
+I deliver complete automation systems, from idea to deployment.
+
+- Bot logic and conversation flows
+- API integrations and workflow automation
+- Deployment, monitoring, and maintenance
+- Fast iteration based on business needs
 
 ---
 
@@ -82,18 +102,12 @@ Multi-modal assistant combining voice input, GPT-4 reasoning, and Telegram deliv
 
 ---
 
-## GitHub Stats
-
-![Artem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zorin99W&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zorin99W&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Let's Work Together
 
-Have a business process you want to automate? Need an AI agent or chatbot?
+Need an AI agent, chatbot, or business automation?
 
-**I'm open to freelance projects and long-term collaborations.**
+I'm open to freelance projects and long-term collaborations.
 
+- Website: [artemaiintegrator.ru](https://www.artemaiintegrator.ru/)
 - Telegram: [@zorin99W](https://t.me/zorin99W)
-- GitHub: [zorin99W](https://github.com/zorin99W)
+- Fiverr: [fiverr.com/zorin99w](https://fiverr.com/zorin99w)
