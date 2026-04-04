@@ -2,7 +2,7 @@
 
 > I build AI agents, chatbots, and automation systems that eliminate manual work and scale businesses.
 
-[Website](https://www.artemaiintegrator.ru/) · [Telegram](https://t.me/zorin99W) · [Fiverr](https://fiverr.com/zorin99w) · [GitHub](https://github.com/zorin99W)
+[Website](https://www.artemaiintegrator.ru/) · [Telegram](https://t.me/gpt_integrator_by) · [GitHub](https://github.com/zorin99W)
 
 ---
 
@@ -109,5 +109,4 @@ Need an AI agent, chatbot, or business automation?
 I'm open to freelance projects and long-term collaborations.
 
 - Website: [artemaiintegrator.ru](https://www.artemaiintegrator.ru/)
-- Telegram: [@zorin99W](https://t.me/zorin99W)
-- Fiverr: [fiverr.com/zorin99w](https://fiverr.com/zorin99w)
+- Telegram: [@gpt_integrator_by](https://t.me/gpt_integrator_by)
