@@ -3,7 +3,8 @@
 > I build AI agents, chatbots, and automation systems that eliminate manual work and scale businesses.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@zorin99W-2CA5E0?style=flat&logo=telegram)](https://t.me/zorin99W)
-[![Profile Views](https://komarev.com/ghpvc/?username=zorin99W&color=blue&style=flat)](https://github.com/zorin99W)
+[![Profile Views](https://komarev.com/ghpvc/?username=zorin99W&color=blue&style=flat)]
+[![Website](https://img.shields.io/badge/Website-artemaiintegrator.ru-00B37E?style=flat&logo=google-chrome&logoColor=white)](https://www.artemaiintegrator.ru/)(https://github.com/zorin99W)
 
 ---
 
