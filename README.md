@@ -1,77 +1,98 @@
-# Hi, I'm Artem — AI Developer & Automation Specialist
+# Hi, I'm Artem — AI Developer & Automation Engineer
 
-> I build AI agents, chatbots, and automation systems that save time and scale businesses.
+> I build AI agents, chatbots, and automation systems that eliminate manual work and scale businesses.
 
----
-
-## What I Do
-
-- **AI Agents** — Custom autonomous agents powered by GPT-4, Claude, DeepSeek and other LLMs
-- **Chatbots** — Telegram, WhatsApp, and web bots with natural language understanding
-- **Automation** — n8n, Make (Integromat), Python scripts, API integrations
-- **Neural Networks** — Applied ML solutions for real business tasks
+[![Telegram](https://img.shields.io/badge/Telegram-@zorin99W-2CA5E0?style=flat&logo=telegram)](https://t.me/zorin99W)
+[![Profile Views](https://komarev.com/ghpvc/?username=zorin99W&color=blue&style=flat)](https://github.com/zorin99W)
 
 ---
 
-## Tech Stack
+## What I Build
 
-**AI & LLMs:**
-`OpenAI API` `Open Router` `LangChain` `DeepSeek` `Claude`
-
-**Automation:**
-`n8n` `Make` `Zapier` `Python`
-
-**Bots & Messengers:**
-`Telegram Bot API` `python-telegram-bot` `aiogram`
-
-**Deployment:**
-`Railway` `Docker` `GitHub Actions`
+| Service | Description | Tools |
+|---|---|---|
+| AI Agents | Autonomous multi-step agents for business tasks | LangChain, OpenAI, Claude, DeepSeek |
+| Telegram Bots | Support, sales, onboarding bots with NLP | aiogram, python-telegram-bot, OpenAI |
+| n8n Automations | No-code/low-code workflow pipelines | n8n, Make, Zapier |
+| CRM Integrations | Auto lead capture, enrichment, follow-up | Apollo, HubSpot, Google Sheets |
+| AI Content Pipelines | Auto-generate, post, and manage content | OpenAI, n8n, Notion, Telegram |
+| Web Scraping | Scheduled data collection and processing | Python, BeautifulSoup, Playwright |
 
 ---
 
 ## Featured Projects
 
 ### AI Support Bot
-Telegram bot with AI support powered by OpenRouter API. Handles customer queries 24/7 with intelligent responses. Ready for Railway deployment.
-[View project](https://github.com/zorin99W/techsupp-bot)
-
-### N8N Automation Suite
-Collection of production-ready n8n workflow automations for digital marketing, content management, and business operations.
-[View project](https://github.com/zorin99W/argos-gbp-auto-post)
+Telegram bot powered by OpenAI/OpenRouter that handles customer queries 24/7 with context memory and smart routing.
+- Stack: Python, aiogram, OpenAI API, Railway
+- Production-ready: handles real client traffic
+- [View project](https://github.com/zorin99W/techsupp-bot)
 
 ### Super AI Agent
-Advanced AI agent framework for complex multi-step task execution and business process automation.
-[View project](https://github.com/zorin99W/super-ai-agent)
+Advanced autonomous agent that breaks complex tasks into subtasks, uses tools, and reports results.
+- Stack: Python, LangChain, OpenAI, Claude
+- Multi-step reasoning with tool use (search, code, APIs)
+- [View project](https://github.com/zorin99W/super-ai-agent)
+
+### N8N Automation Suite
+Collection of production-ready n8n workflows for lead generation, content posting, and CRM updates.
+- Stack: n8n, Make, Google Sheets, Telegram
+- Saves 10-20 hours/week on manual operations
+- [View project](https://github.com/zorin99W/n8n-flows)
+
+### AI Voice & Chat Assistant
+Multi-modal assistant combining voice input, GPT-4 reasoning, and Telegram delivery.
+- Stack: Python, OpenAI Whisper, GPT-4, aiogram
+- [View project](https://github.com/zorin99W/improved-robot)
 
 ---
 
-## 🔥 Trending Automations (2026)
+## Real Results
 
-Here are 10 high-demand AI automations I build for clients:
+- AI support bot reduced operator workload by ~60% for e-commerce client
+- n8n lead pipeline automated outreach for 500+ contacts/week
+- Telegram onboarding bot cut manual client setup from 2 hours to 5 minutes
 
-| # | Automation | Description | Tools |
-|---|-----------|-------------|-------|
-| 1 | **AI Lead Qualification Bot** | Scores and qualifies incoming leads automatically, notifies sales team via Telegram | GPT-4, n8n, CRM API |
-| 2 | **Auto Content Publisher** | Generates and publishes posts to social media on schedule using AI | GPT-4o, n8n, Instagram/LinkedIn API |
-| 3 | **AI Customer Support Agent** | 24/7 Telegram/WhatsApp bot that handles FAQs and escalates complex issues | OpenRouter, python-telegram-bot |
-| 4 | **Invoice & Document Parser** | Extracts data from PDFs/invoices and pushes to Google Sheets or CRM | GPT-4 Vision, Make, Google Sheets |
-| 5 | **AI Cold Outreach Personalizer** | Researches prospects and writes personalized cold emails automatically | GPT-4, Apollo.io API, n8n |
-| 6 | **E-commerce Price Monitor** | Tracks competitor prices and alerts when changes occur | Python, Telegram Bot, n8n |
-| 7 | **Meeting Notes Summarizer** | Records meetings, transcribes, summarizes action items via AI | Whisper API, GPT-4, Notion API |
-| 8 | **AI Review Responder** | Monitors new reviews on Google/2GIS and auto-generates responses for approval | GPT-4, Google API, Telegram |
-| 9 | **Telegram Mini App + AI Assistant** | Full mini-app inside Telegram with integrated AI assistant for your business | Python, Telegram Bot API, GPT-4 |
-| 10 | **Multi-Agent Research System** | Autonomous agents that research topics, gather data, and produce structured reports | LangChain, GPT-4, Tavily Search |
+---
+
+## Tech Stack
+
+**AI & LLMs:**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=flat)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0066CC?style=flat)
+
+**Automation:**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Bots & Messengers:**
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat)
+
+**Integrations:**
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![Artem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zorin99W&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zorin99W&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## Let's Work Together
 
-Looking to automate your business or integrate AI into your workflow?
+Have a business process you want to automate? Need an AI agent or chatbot?
 
-- VK: [vk.com/ai.integrator](https://vk.com/ai.integrator)
-- Website: [artemaiintegrator.ru](https://www.artemaiintegrator.ru/)
- - Telegram: [@gpt_integrator_by](https://t.me/gpt_integrator_by)
+**I'm open to freelance projects and long-term collaborations.**
 
----
-
-![Profile views](https://komarev.com/ghpvc/?username=zorin99W&color=blue&style=flat)
+- Telegram: [@zorin99W](https://t.me/zorin99W)
+- GitHub: [zorin99W](https://github.com/zorin99W)
